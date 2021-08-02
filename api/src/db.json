@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 28,
+      "name": "Marcus",
+      "lastName": "Paulo",
+      "cpf": "000.000.000-00",
+      "datanasc": "00-00-2000",
+      "municipio": "CE",
+      "password": "123",
+      "email": "marcusantoniopaulo@gmail.com",
+      "isAdmin": true,
+      "active": true
+    },
+    {
+      "name": "Marcus123",
+      "lastName": "Paulo123",
+      "cpf": "000.000.000-01",
+      "datanasc": "00-00-2001",
+      "municipio": "CE",
+      "password": "ssss",
+      "email": "marcusantoniopaulo@gmail.com",
+      "isAdmin": false,
+      "active": true,
+      "id": 29
+    }
+  ]
+}

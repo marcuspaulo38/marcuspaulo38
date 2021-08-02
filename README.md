@@ -1,22 +1,27 @@
 
-Este projeto foi desenvolvido com ajuda de alguns helps para um teste...
 
-Baixe os fontes e dentro das pastas
+Projeto em 
+React, Hooks;
+Redux, Redux Saga, Redux persist;
+Componentes;
+Material Ui;
+Immer, Yup, axios..;
 
-api do projeto rodar
+Instalação de depêndencias
+No temrinal dentro das pastas "api" e "app-react"
+
+#npm
+$ npm install
 
 
- #npm
-$ npm start
-
-app-react
+Executar Aplicação
+comandos abaixo no temrinal dentro das pastas "api" e "app-react"
 
 #npm
 $ npm start
 
 
-Acesso:
-login: marcusantoniopaulo@gmail.com
-senha 123
-
-
+Acesso
+Login Administrador
+email: marcusantoniopaulo@gmail.com
+senha: 123
